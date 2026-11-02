@@ -1,0 +1,260 @@
+{
+  "1": [
+    {
+      "intrare": "1\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 1, varianta 1\nIntroduceți x (în radiani):\ny = -2.841470984808\n",
+      "asteptat": "y = -2.841470984808",
+      "exit": 0
+    },
+    {
+      "intrare": "-1\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 1, varianta 1\nIntroduceți x (în radiani):\ny = -2.841470984808\n",
+      "asteptat": "y = -2.841470984808",
+      "exit": 0
+    },
+    {
+      "intrare": "0\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 1, varianta 1\nIntroduceți x (în radiani):\nEroare: numitor nul; expresia nu este definită.\n",
+      "asteptat": "numitor nul",
+      "exit": 0
+    },
+    {
+      "intrare": "1.4142135623730951\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 1, varianta 1\nIntroduceți x (în radiani):\nEroare: numitor nul; expresia nu este definită.\n",
+      "asteptat": "numitor nul",
+      "exit": 0
+    },
+    {
+      "intrare": "abc\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 1, varianta 1\nIntroduceți x (în radiani):\nEroare: introduceți un număr real valid.\n",
+      "asteptat": "Eroare",
+      "exit": 0
+    },
+    {
+      "intrare": "1e200\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 1, varianta 1\nIntroduceți x (în radiani):\nEroare: limitele reprezentării double au fost depășite.\n",
+      "asteptat": "limitele",
+      "exit": 0
+    }
+  ],
+  "2": [
+    {
+      "intrare": "3 7 5\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 2, varianta 1\nIntroduceți trei numere întregi (int):\nMaximul = 7\n",
+      "asteptat": "Maximul = 7",
+      "exit": 0
+    },
+    {
+      "intrare": "-9 -2 -5\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 2, varianta 1\nIntroduceți trei numere întregi (int):\nMaximul = -2\n",
+      "asteptat": "Maximul = -2",
+      "exit": 0
+    },
+    {
+      "intrare": "4 4 4\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 2, varianta 1\nIntroduceți trei numere întregi (int):\nMaximul = 4\n",
+      "asteptat": "Maximul = 4",
+      "exit": 0
+    },
+    {
+      "intrare": "a\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 2, varianta 1\nIntroduceți trei numere întregi (int):\nEroare: sunt necesare trei valori de tip int.\n",
+      "asteptat": "Eroare",
+      "exit": 0
+    }
+  ],
+  "3": [
+    {
+      "intrare": "10\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 3, varianta 1\nIntroduceți n întreg nenegativ (maximum 1000000):\nSuma numerelor pare = 30\n",
+      "asteptat": "= 30",
+      "exit": 0
+    },
+    {
+      "intrare": "1\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 3, varianta 1\nIntroduceți n întreg nenegativ (maximum 1000000):\nSuma numerelor pare = 0\n",
+      "asteptat": "= 0",
+      "exit": 0
+    },
+    {
+      "intrare": "-4\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 3, varianta 1\nIntroduceți n întreg nenegativ (maximum 1000000):\nEroare: n trebuie să aparțină intervalului [0, 1000000].\n",
+      "asteptat": "Eroare",
+      "exit": 0
+    },
+    {
+      "intrare": "1000000\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 3, varianta 1\nIntroduceți n întreg nenegativ (maximum 1000000):\nSuma numerelor pare = 250000500000\n",
+      "asteptat": "= 250000500000",
+      "exit": 0
+    }
+  ],
+  "4": [
+    {
+      "intrare": "4\n2 4 6 8\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 4, varianta 1\nIntroduceți dimensiunea vectorului (1..10000):\nIntroduceți cele 4 elemente reale:\nMedia aritmetică = 5.000000\n",
+      "asteptat": "= 5.000000",
+      "exit": 0
+    },
+    {
+      "intrare": "3\n-3 0 3\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 4, varianta 1\nIntroduceți dimensiunea vectorului (1..10000):\nIntroduceți cele 3 elemente reale:\nMedia aritmetică = 0.000000\n",
+      "asteptat": "= 0.000000",
+      "exit": 0
+    },
+    {
+      "intrare": "0\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 4, varianta 1\nIntroduceți dimensiunea vectorului (1..10000):\nEroare: dimensiunea trebuie să fie în [1, 10000].\n",
+      "asteptat": "Eroare",
+      "exit": 0
+    },
+    {
+      "intrare": "1\n-7\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 4, varianta 1\nIntroduceți dimensiunea vectorului (1..10000):\nIntroduceți cele 1 elemente reale:\nMedia aritmetică = -7.000000\n",
+      "asteptat": "= -7.000000",
+      "exit": 0
+    },
+    {
+      "intrare": "2\nNaN 1\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 4, varianta 1\nIntroduceți dimensiunea vectorului (1..10000):\nIntroduceți cele 2 elemente reale:\nEroare: elementele trebuie să fie finite, |x| <= 1e100.\n",
+      "asteptat": "Eroare",
+      "exit": 0
+    }
+  ],
+  "5": [
+    {
+      "intrare": "2 3\n1 2 3 4 5 6\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 5, varianta 1\nIntroduceți numărul de rânduri și de coloane (1..100):\nIntroduceți elementele pe rânduri:\nMedia aritmetică = 3.500000\n",
+      "asteptat": "= 3.500000",
+      "exit": 0
+    },
+    {
+      "intrare": "1 1\n-7\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 5, varianta 1\nIntroduceți numărul de rânduri și de coloane (1..100):\nIntroduceți elementele pe rânduri:\nMedia aritmetică = -7.000000\n",
+      "asteptat": "= -7.000000",
+      "exit": 0
+    },
+    {
+      "intrare": "0 3\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 5, varianta 1\nIntroduceți numărul de rânduri și de coloane (1..100):\nEroare: dimensiunile trebuie să fie în [1, 100].\n",
+      "asteptat": "Eroare",
+      "exit": 0
+    },
+    {
+      "intrare": "2 2\n-1 1 -2 2\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 5, varianta 1\nIntroduceți numărul de rânduri și de coloane (1..100):\nIntroduceți elementele pe rânduri:\nMedia aritmetică = 0.000000\n",
+      "asteptat": "= 0.000000",
+      "exit": 0
+    }
+  ],
+  "6": [
+    {
+      "intrare": "Java\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 6, varianta 1\nIntroduceți un șir de caractere:\nLitera «a» este prezentă.\n",
+      "asteptat": "este prezentă.",
+      "exit": 0
+    },
+    {
+      "intrare": "ULIM\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 6, varianta 1\nIntroduceți un șir de caractere:\nLitera «a» nu este prezentă.\n",
+      "asteptat": "nu este prezentă.",
+      "exit": 0
+    },
+    {
+      "intrare": "\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 6, varianta 1\nIntroduceți un șir de caractere:\nLitera «a» nu este prezentă.\n",
+      "asteptat": "nu este prezentă.",
+      "exit": 0
+    },
+    {
+      "intrare": "AĂÂ\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 6, varianta 1\nIntroduceți un șir de caractere:\nLitera «a» nu este prezentă.\n",
+      "asteptat": "nu este prezentă.",
+      "exit": 0
+    },
+    {
+      "intrare": "a\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 6, varianta 1\nIntroduceți un șir de caractere:\nLitera «a» este prezentă.\n",
+      "asteptat": "este prezentă.",
+      "exit": 0
+    }
+  ],
+  "7": [
+    {
+      "intrare": "1 2 3\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 7, varianta 1\nIntroduceți trei numere întregi (int):\nMedia aritmetică = 2.000000\n",
+      "asteptat": "= 2.000000",
+      "exit": 0
+    },
+    {
+      "intrare": "-3 0 3\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 7, varianta 1\nIntroduceți trei numere întregi (int):\nMedia aritmetică = 0.000000\n",
+      "asteptat": "= 0.000000",
+      "exit": 0
+    },
+    {
+      "intrare": "2147483647 2147483647 2147483647\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 7, varianta 1\nIntroduceți trei numere întregi (int):\nMedia aritmetică = 2147483647.000000\n",
+      "asteptat": "= 2147483647.000000",
+      "exit": 0
+    },
+    {
+      "intrare": "x\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 7, varianta 1\nIntroduceți trei numere întregi (int):\nEroare: sunt necesare trei valori de tip int.\n",
+      "asteptat": "Eroare",
+      "exit": 0
+    }
+  ],
+  "8": [
+    {
+      "intrare": "4\n2 4 6 8\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 8, varianta 1\nIntroduceți dimensiunea tabloului (1..10000):\nIntroduceți elementele reale:\nTabloul: [2.0, 4.0, 6.0, 8.0]\nMedia aritmetică = 5.000000\n",
+      "asteptat": "= 5.000000",
+      "exit": 0
+    },
+    {
+      "intrare": "1\n-2\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 8, varianta 1\nIntroduceți dimensiunea tabloului (1..10000):\nIntroduceți elementele reale:\nTabloul: [-2.0]\nMedia aritmetică = -2.000000\n",
+      "asteptat": "= -2.000000",
+      "exit": 0
+    },
+    {
+      "intrare": "0\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 8, varianta 1\nIntroduceți dimensiunea tabloului (1..10000):\nEroare: Dimensiunea trebuie să fie în [1, 10000].\n",
+      "asteptat": "Eroare",
+      "exit": 0
+    },
+    {
+      "intrare": "3\n-3 0 3\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 8, varianta 1\nIntroduceți dimensiunea tabloului (1..10000):\nIntroduceți elementele reale:\nTabloul: [-3.0, 0.0, 3.0]\nMedia aritmetică = 0.000000\n",
+      "asteptat": "= 0.000000",
+      "exit": 0
+    }
+  ],
+  "9": [
+    {
+      "intrare": "1\nDA\n3\n1\nAlexa\nAdrian\nChișinău\nStrada Exemplu 1\n000000000\n8\n3\n2\nTest\nStudent\nChișinău\nStrada Exemplu 1\n000000000\n7.99\n6\n0\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 9, varianta 1\nFișier UTF-8: /workspace/laboratoare-java/rezultate/studenti_caz1.tsv\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nRecreare fișier: scrieți DA pentru confirmare.\nFișier creat.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nNumărul studentului:\nNumele:\nPrenumele:\nLocalitatea:\nAdresa:\nTelefonul:\nNota medie (1..10):\nDate salvate.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nNumărul studentului:\nNumele:\nPrenumele:\nLocalitatea:\nAdresa:\nTelefonul:\nNota medie (1..10):\nDate salvate.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\n1\tAlexa\tAdrian\tChișinău\tStrada Exemplu 1\t000000000\t8.0\nÎnregistrări afișate: 1\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\n",
+      "asteptat": "Înregistrări afișate: 1",
+      "exit": 0
+    },
+    {
+      "intrare": "1\nDA\n3\n1\nAlexa\nAdrian\nChișinău\nStrada Exemplu 1\n000000000\n11\n6\n0\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 9, varianta 1\nFișier UTF-8: /workspace/laboratoare-java/rezultate/studenti_caz2.tsv\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nRecreare fișier: scrieți DA pentru confirmare.\nFișier creat.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nNumărul studentului:\nNumele:\nPrenumele:\nLocalitatea:\nAdresa:\nTelefonul:\nNota medie (1..10):\nEroare: Număr pozitiv și medie în [1, 10] necesare.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nÎnregistrări afișate: 0\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\n",
+      "asteptat": "Înregistrări afișate: 0",
+      "exit": 0
+    },
+    {
+      "intrare": "1\nDA\n3\n1\nAlexa\nAdrian\nChișinău\nStrada Exemplu 1\n000000000\n9\n4\n1\nAlexa\nAdrian\nChișinău\nStrada Exemplu 1\n000000000\n7\n6\n5\n1\n2\n0\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 9, varianta 1\nFișier UTF-8: /workspace/laboratoare-java/rezultate/studenti_caz3.tsv\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nRecreare fișier: scrieți DA pentru confirmare.\nFișier creat.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nNumărul studentului:\nNumele:\nPrenumele:\nLocalitatea:\nAdresa:\nTelefonul:\nNota medie (1..10):\nDate salvate.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nNumărul studentului:\nNumele:\nPrenumele:\nLocalitatea:\nAdresa:\nTelefonul:\nNota medie (1..10):\nDate salvate.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nÎnregistrări afișate: 0\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nNumărul de eliminat:\nStudent eliminat.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nÎnregistrări afișate: 0\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\n",
+      "asteptat": "Student eliminat.",
+      "exit": 0
+    },
+    {
+      "intrare": "1\nDA\n3\n1\nAlexa\nAdrian\nChișinău\nStrada Exemplu 1\n000000000\n8\n3\n1\nAlexa\nAdrian\nChișinău\nStrada Exemplu 1\n000000000\n9\n0\n",
+      "iesire": "Alexa Adrian | TI-262-21 | Laboratorul 9, varianta 1\nFișier UTF-8: /workspace/laboratoare-java/rezultate/studenti_caz4.tsv\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nRecreare fișier: scrieți DA pentru confirmare.\nFișier creat.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nNumărul studentului:\nNumele:\nPrenumele:\nLocalitatea:\nAdresa:\nTelefonul:\nNota medie (1..10):\nDate salvate.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\nNumărul studentului:\nNumele:\nPrenumele:\nLocalitatea:\nAdresa:\nTelefonul:\nNota medie (1..10):\nEroare: Numărul există deja.\n1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare\n5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire\n",
+      "asteptat": "Numărul există deja.",
+      "exit": 0
+    }
+  ]
+}

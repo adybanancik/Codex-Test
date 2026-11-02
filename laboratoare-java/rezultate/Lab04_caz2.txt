@@ -1,0 +1,9 @@
+INTRARE
+3
+-3 0 3
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 4, varianta 1
+Introduceți dimensiunea vectorului (1..10000):
+Introduceți cele 3 elemente reale:
+Media aritmetică = 0.000000

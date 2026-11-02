@@ -1,0 +1,43 @@
+----------
+1. WARNING in /workspace/laboratoare-java/cod/Lab01.java (at line 7)
+	Scanner in = new Scanner(System.in);
+	        ^^
+Resource leak: 'in' is never closed
+----------
+----------
+2. WARNING in /workspace/laboratoare-java/cod/Lab02.java (at line 5)
+	Scanner in = new Scanner(System.in);
+	        ^^
+Resource leak: 'in' is never closed
+----------
+----------
+3. WARNING in /workspace/laboratoare-java/cod/Lab03.java (at line 6)
+	Scanner in = new Scanner(System.in);
+	        ^^
+Resource leak: 'in' is never closed
+----------
+----------
+4. WARNING in /workspace/laboratoare-java/cod/Lab04.java (at line 7)
+	Scanner in = new Scanner(System.in);
+	        ^^
+Resource leak: 'in' is never closed
+----------
+----------
+5. WARNING in /workspace/laboratoare-java/cod/Lab05.java (at line 7)
+	Scanner in = new Scanner(System.in);
+	        ^^
+Resource leak: 'in' is never closed
+----------
+----------
+6. WARNING in /workspace/laboratoare-java/cod/Lab06.java (at line 5)
+	Scanner in = new Scanner(System.in);
+	        ^^
+Resource leak: 'in' is never closed
+----------
+----------
+7. WARNING in /workspace/laboratoare-java/cod/Lab07.java (at line 12)
+	Scanner in = new Scanner(System.in);
+	        ^^
+Resource leak: 'in' is never closed
+----------
+7 problems (7 warnings)

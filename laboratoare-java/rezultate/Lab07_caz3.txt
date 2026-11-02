@@ -1,0 +1,7 @@
+INTRARE
+2147483647 2147483647 2147483647
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 7, varianta 1
+Introduceți trei numere întregi (int):
+Media aritmetică = 2147483647.000000

@@ -1,0 +1,10 @@
+INTRARE
+4
+2 4 6 8
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 8, varianta 1
+Introduceți dimensiunea tabloului (1..10000):
+Introduceți elementele reale:
+Tabloul: [2.0, 4.0, 6.0, 8.0]
+Media aritmetică = 5.000000

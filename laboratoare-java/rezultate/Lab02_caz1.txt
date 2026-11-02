@@ -1,0 +1,7 @@
+INTRARE
+3 7 5
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 2, varianta 1
+Introduceți trei numere întregi (int):
+Maximul = 7

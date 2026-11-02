@@ -1,0 +1,7 @@
+INTRARE
+a
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 6, varianta 1
+Introduceți un șir de caractere:
+Litera «a» este prezentă.

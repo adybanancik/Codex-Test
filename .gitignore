@@ -1,0 +1,4 @@
+**/clase/
+**/__pycache__/
+*.class
+studenti.tsv

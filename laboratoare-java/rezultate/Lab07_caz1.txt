@@ -1,0 +1,7 @@
+INTRARE
+1 2 3
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 7, varianta 1
+Introduceți trei numere întregi (int):
+Media aritmetică = 2.000000

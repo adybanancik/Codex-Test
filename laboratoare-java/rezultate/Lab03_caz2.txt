@@ -1,0 +1,7 @@
+INTRARE
+1
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 3, varianta 1
+Introduceți n întreg nenegativ (maximum 1000000):
+Suma numerelor pare = 0

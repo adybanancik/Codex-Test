@@ -1,0 +1,7 @@
+INTRARE
+0 3
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 5, varianta 1
+Introduceți numărul de rânduri și de coloane (1..100):
+Eroare: dimensiunile trebuie să fie în [1, 100].

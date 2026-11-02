@@ -1,0 +1,9 @@
+INTRARE
+4
+2 4 6 8
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 4, varianta 1
+Introduceți dimensiunea vectorului (1..10000):
+Introduceți cele 4 elemente reale:
+Media aritmetică = 5.000000

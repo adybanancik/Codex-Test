@@ -1,0 +1,7 @@
+INTRARE
+0
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 8, varianta 1
+Introduceți dimensiunea tabloului (1..10000):
+Eroare: Dimensiunea trebuie să fie în [1, 10000].

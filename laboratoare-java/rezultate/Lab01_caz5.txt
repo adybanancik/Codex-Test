@@ -1,0 +1,7 @@
+INTRARE
+abc
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 1, varianta 1
+Introduceți x (în radiani):
+Eroare: introduceți un număr real valid.

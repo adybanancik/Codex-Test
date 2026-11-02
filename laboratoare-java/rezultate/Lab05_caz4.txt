@@ -1,0 +1,9 @@
+INTRARE
+2 2
+-1 1 -2 2
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 5, varianta 1
+Introduceți numărul de rânduri și de coloane (1..100):
+Introduceți elementele pe rânduri:
+Media aritmetică = 0.000000

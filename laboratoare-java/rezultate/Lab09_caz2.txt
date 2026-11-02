@@ -1,0 +1,36 @@
+INTRARE
+1
+DA
+3
+1
+Alexa
+Adrian
+Chișinău
+Strada Exemplu 1
+000000000
+11
+6
+0
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 9, varianta 1
+Fișier UTF-8: /workspace/laboratoare-java/rezultate/studenti_caz2.tsv
+1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare
+5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire
+Recreare fișier: scrieți DA pentru confirmare.
+Fișier creat.
+1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare
+5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire
+Numărul studentului:
+Numele:
+Prenumele:
+Localitatea:
+Adresa:
+Telefonul:
+Nota medie (1..10):
+Eroare: Număr pozitiv și medie în [1, 10] necesare.
+1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare
+5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire
+Înregistrări afișate: 0
+1 Creare | 2 Afișare | 3 Adăugare | 4 Modificare
+5 Eliminare | 6 Studenți cu media >= 8 | 0 Ieșire

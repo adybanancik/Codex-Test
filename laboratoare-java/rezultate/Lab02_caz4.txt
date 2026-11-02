@@ -1,0 +1,7 @@
+INTRARE
+a
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 2, varianta 1
+Introduceți trei numere întregi (int):
+Eroare: sunt necesare trei valori de tip int.

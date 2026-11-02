@@ -1,0 +1,1 @@
+6 verificări suplimentare trecute: scriere UTF-8; recitire în proces nou; modificare persistentă; filtrare după modificare; eliminare persistentă; fișier deteriorat raportat.

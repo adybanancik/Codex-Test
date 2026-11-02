@@ -1,0 +1,7 @@
+INTRARE
+0
+
+IEȘIRE
+Alexa Adrian | TI-262-21 | Laboratorul 1, varianta 1
+Introduceți x (în radiani):
+Eroare: numitor nul; expresia nu este definită.
